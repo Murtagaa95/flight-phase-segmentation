@@ -29,8 +29,8 @@ This repository includes the following key Python scripts:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [URL_OF_YOUR_REPOSITORY]
-    cd [REPOSITORY_NAME]
+    git clone https://github.com/Murtagaa95/flight-phase-segmentation.git
+    cd flight-phase-segmentation
     ```
 2.  **Set up the environment:**
     ```bash
